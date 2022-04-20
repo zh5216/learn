@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .idea/
 java.iml
 java-learn.iml
+=======
+*.iml
+.idea/*
+>>>>>>> c4a28779a4dc49f29fa41d041370f784e67263d7
